@@ -1,0 +1,39 @@
+.email {
+    width: 400px;
+}
+
+.name-attr>input {
+    width: 180px;
+    height: 20px;
+    float: left;
+    border: 2px, solid;
+    border-radius: 5px;
+}
+
+.name-attr>div {
+    float: left;
+}
+
+.message {
+    clear: both;
+}
+
+.message-content {
+    width: 400px;
+    height: 150px;
+}
+
+.bottom-line {
+    width: 400px;
+    height: 25px;
+    position: relative;
+}
+
+.send-button {
+    color: white;
+    background-color: yellow;
+    border-radius: 5px;
+    border: 0px;
+    position: absolute;
+    right: 0px;
+}
